@@ -85,8 +85,7 @@
 #include "regs.h"
 #include "registers.h"
 
-#include "PsxMem.h"
-#include "driver.h"
+#include "../driver.h"
 
 ////////////////////////////////////////////////////////////////////////
 // globals
